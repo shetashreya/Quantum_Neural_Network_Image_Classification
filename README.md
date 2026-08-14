@@ -77,12 +77,4 @@ This hybrid approach allows quantum computing concepts to be incorporated into a
 - Matplotlib
 - Scikit-learn
 
-## Project File
-
-```text
-Quantum_Neural_Network_Image_Classification/
-│
-├── Quantum_Neural_Networks_for_Image_Classification.ipynb
-└── README.md
-```
 
